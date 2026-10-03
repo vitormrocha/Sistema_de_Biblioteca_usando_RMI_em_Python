@@ -11,8 +11,8 @@ Method Invocation) sobre sockets TCP em Python.
  AUTORES
 ---------------------------------------------------------
 
-Vitor Martins Rocha - 12211BCC049
-Odelmo Ferreira Neto - 12211BCC006
+Vitor Martins Rocha 
+Odelmo Ferreira Neto 
 
 Disciplina: Sistemas Distribuidos (GBC074)
 Instituicao: Universidade Federal de Uberlandia (UFU)
